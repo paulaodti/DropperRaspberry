@@ -1,0 +1,14 @@
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\Raspberry.IO.GeneralPurpose.dll
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\Raspberry.System.dll
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\Raspberry.IO.GeneralPurpose.xml
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\Raspberry.System.xml
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\Raspberry.IO.dll
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\Raspberry.IO.Interop.dll
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\Raspberry.IO.xml
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\DropperRaspberry.pdb
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\obj\Debug\DropperRaspberry.pdb
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\DropperRaspberry.exe.config
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\bin\Debug\DropperRaspberry.exe
+C:\Users\Henrique\Documents\ESCOLA\PUC-MG\TCC\Códigos\DropperMqttBrokerRaspberry\obj\Debug\DropperRaspberry.exe
